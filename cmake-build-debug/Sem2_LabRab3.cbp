@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sem2_LabRab3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Project_C++/Sem2_LabRab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Project_C++/Sem2_LabRab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem2_LabRab3">
+				<Option output="D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Sem2_LabRab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Project_C++/Sem2_LabRab3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem2_LabRab3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem2_LabRab3/fast">
+				<Option output="D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Sem2_LabRab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Project_C++/Sem2_LabRab3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem2_LabRab3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Project_C++/Sem2_LabRab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Project_C++/Sem2_LabRab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Book/Book.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Book/Book.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Card/Card.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Card/Card.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Menu/Menu.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Menu/Menu.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Reader/Reader.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Reader/Reader.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Storage/Storage.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Storage/Storage.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/User/User.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/User/User.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Worker/Worker.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/Worker/Worker.h">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/main.cpp">
+			<Option target="Sem2_LabRab3"/>
+		</Unit>
+		<Unit filename="D:/Project_C++/Sem2_LabRab3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
