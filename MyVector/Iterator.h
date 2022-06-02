@@ -3,46 +3,54 @@
 
 #include <iostream>
 using namespace std;
-
-    template <typename T>
+namespace ZKN {
+    template<typename T>
     class Iterator {
-        template <typename V>
+        template<typename V>
         friend class MyVector;
 
     public:
-        Iterator(const Iterator<T>&);
-        bool operator==(const Iterator<T>&) const;
-        bool operator!=(const Iterator<T>&) const;
-        Iterator<T>& operator++();
-        T& operator*() const;
+        Iterator(const Iterator<T> &);
+
+        bool operator==(const Iterator<T> &) const;
+
+        bool operator!=(const Iterator<T> &) const;
+
+        Iterator<T> &operator++();
+
+        T &operator*() const;
 
     private:
-        T* m_worker;
-        Iterator(T* p) : m_worker(p) {};
+        T *m_worker;
+
+        Iterator(T *p) : m_worker(p) {};
     };
 
 
-    template <typename T>
-    Iterator<T>::Iterator(const Iterator& it) : m_worker(it.m_worker) {}
+    template<typename T>
+    Iterator<T>::Iterator(const Iterator &it) : m_worker(it.m_worker) {}
 
-    template <typename T>
-    bool Iterator<T>::operator==(const Iterator<T>& it) const {
+    template<typename T>
+    bool Iterator<T>::operator==(const Iterator<T> &it) const {
         return m_worker == it.m_worker;
     }
-    template <typename T>
-    bool Iterator<T>::operator!=(const Iterator<T>& it) const {
+
+    template<typename T>
+    bool Iterator<T>::operator!=(const Iterator<T> &it) const {
         return m_worker != it.m_worker;
     }
-    template <typename T>
-    Iterator<T>& Iterator<T>::operator++() {
+
+    template<typename T>
+    Iterator<T> &Iterator<T>::operator++() {
         m_worker++;
         return *this;
     }
-    template <typename T>
-    T& Iterator<T>::operator*() const {
+
+    template<typename T>
+    T &Iterator<T>::operator*() const {
         return *m_worker;
     }
-
+}
 
 
 #endif //SEM2_LABRAB3_ITERATOR_H

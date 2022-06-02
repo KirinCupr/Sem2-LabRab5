@@ -6,46 +6,24 @@
 
 #IncludeRegexTransform: 
 
-D:/Project_C++/Sem2_LabRab3/Book/Book.h
-string
--
-iostream
--
-
-D:/Project_C++/Sem2_LabRab3/Card/Card.h
-D:/Project_C++/Sem2_LabRab3/Book/Book.h
--
-iostream
--
-
 D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.h
 
-D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.h
-D:/Project_C++/Sem2_LabRab3/Reader/Reader.h
--
-
-D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.h
-D:/Project_C++/Sem2_LabRab3/Reader/Reader.h
--
-Iterator.h
-D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.h
-
-D:/Project_C++/Sem2_LabRab3/Reader/Reader.h
-D:/Project_C++/Sem2_LabRab3/User/User.h
--
+D:/Project_C++/Sem2_LabRab5/Book/Book.h
 string
 -
-fstream
--
-D:/Project_C++/Sem2_LabRab3/Card/Card.h
--
-
-D:/Project_C++/Sem2_LabRab3/User/User.h
 iostream
 -
-fstream
--
-string
+
+D:/Project_C++/Sem2_LabRab5/Card/Card.cpp
+Card.h
+D:/Project_C++/Sem2_LabRab5/Card/Card.h
+
+D:/Project_C++/Sem2_LabRab5/Card/Card.h
+../Book/Book.h
+D:/Project_C++/Sem2_LabRab5/Book/Book.h
+../MyVector/MyVector.h
+D:/Project_C++/Sem2_LabRab5/MyVector/MyVector.h
+iostream
 -
 
 D:/Project_C++/Sem2_LabRab5/Menu/Menu.h
@@ -54,14 +32,36 @@ D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.h
 cstddef
 -
 
-D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
-D:/Project_C++/Sem2_LabRab3/User/User.h
+D:/Project_C++/Sem2_LabRab5/MyVector/Iterator.h
+iostream
 -
+
+D:/Project_C++/Sem2_LabRab5/MyVector/MyVector.h
+Iterator.h
+D:/Project_C++/Sem2_LabRab5/MyVector/Iterator.h
+iostream
+-
+
+D:/Project_C++/Sem2_LabRab5/Reader/Reader.cpp
+Reader.h
+D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
+
+D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
+../User/User.h
+D:/Project_C++/Sem2_LabRab5/User/User.h
+../Card/Card.h
+D:/Project_C++/Sem2_LabRab5/Card/Card.h
 string
 -
 fstream
 -
-D:/Project_C++/Sem2_LabRab3/Card/Card.h
+
+D:/Project_C++/Sem2_LabRab5/User/User.h
+iostream
+-
+fstream
+-
+string
 -
 
 D:/Project_C++/Sem2_LabRab5/main.cpp
@@ -73,6 +73,4 @@ Menu/Menu.h
 D:/Project_C++/Sem2_LabRab5/Menu/Menu.h
 Reader/Reader.h
 D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
-D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.h
--
 

@@ -1,9 +1,10 @@
 #ifndef SEM2_LABRAB3_READER_H
 #define SEM2_LABRAB3_READER_H
-#include "D:\Project_C++\Sem2_LabRab3\User\User.h"
+#include "../User/User.h"
+#include "../Card/Card.h"
 #include <string>
 #include <fstream>
-#include "D:\Project_C++\Sem2_LabRab3\Card\Card.h"
+
 namespace ZKN
 {
     class Reader : User

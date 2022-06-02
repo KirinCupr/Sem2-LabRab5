@@ -4,7 +4,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj"
   "CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj"
   "CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj"
-  "CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.obj"
   "CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj"
   "CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj"
   "CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj"

@@ -118,12 +118,6 @@
 		<Unit filename="D:/Project_C++/Sem2_LabRab5/Reader/Reader.h">
 			<Option target="Sem2_LabRab5"/>
 		</Unit>
-		<Unit filename="D:/Project_C++/Sem2_LabRab5/Storage/Storage.cpp">
-			<Option target="Sem2_LabRab5"/>
-		</Unit>
-		<Unit filename="D:/Project_C++/Sem2_LabRab5/Storage/Storage.h">
-			<Option target="Sem2_LabRab5"/>
-		</Unit>
 		<Unit filename="D:/Project_C++/Sem2_LabRab5/User/User.cpp">
 			<Option target="Sem2_LabRab5"/>
 		</Unit>

@@ -5,9 +5,11 @@ CMakeFiles/Sem2_LabRab5.dir/Book/Book.cpp.obj
  D:/Project_C++/Sem2_LabRab5/Book/Book.cpp
  D:/Project_C++/Sem2_LabRab5/Book/Book.h
 CMakeFiles/Sem2_LabRab5.dir/Card/Card.cpp.obj
- D:/Project_C++/Sem2_LabRab3/Book/Book.h
+ D:/Project_C++/Sem2_LabRab5/Book/Book.h
  D:/Project_C++/Sem2_LabRab5/Card/Card.cpp
  D:/Project_C++/Sem2_LabRab5/Card/Card.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/Iterator.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/MyVector.h
 CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj
  D:/Project_C++/Sem2_LabRab5/ItemMenu/ItemMenu.cpp
  D:/Project_C++/Sem2_LabRab5/ItemMenu/ItemMenu.h
@@ -16,33 +18,27 @@ CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj
  D:/Project_C++/Sem2_LabRab5/Menu/Menu.cpp
  D:/Project_C++/Sem2_LabRab5/Menu/Menu.h
 CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj
- D:/Project_C++/Sem2_LabRab3/Book/Book.h
- D:/Project_C++/Sem2_LabRab3/Card/Card.h
- D:/Project_C++/Sem2_LabRab3/User/User.h
+ D:/Project_C++/Sem2_LabRab5/Book/Book.h
+ D:/Project_C++/Sem2_LabRab5/Card/Card.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/Iterator.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/MyVector.h
  D:/Project_C++/Sem2_LabRab5/Reader/Reader.cpp
  D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
-CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.obj
- D:/Project_C++/Sem2_LabRab3/Book/Book.h
- D:/Project_C++/Sem2_LabRab3/Card/Card.h
- D:/Project_C++/Sem2_LabRab3/Reader/Reader.h
- D:/Project_C++/Sem2_LabRab3/User/User.h
- D:/Project_C++/Sem2_LabRab5/Storage/Storage.cpp
- D:/Project_C++/Sem2_LabRab5/Storage/Storage.h
+ D:/Project_C++/Sem2_LabRab5/User/User.h
 CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj
  D:/Project_C++/Sem2_LabRab5/User/User.cpp
  D:/Project_C++/Sem2_LabRab5/User/User.h
 CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj
- D:/Project_C++/Sem2_LabRab3/User/User.h
+ D:/Project_C++/Sem2_LabRab5/User/User.h
  D:/Project_C++/Sem2_LabRab5/Worker/Worker.cpp
  D:/Project_C++/Sem2_LabRab5/Worker/Worker.h
 CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj
- D:/Project_C++/Sem2_LabRab3/Book/Book.h
- D:/Project_C++/Sem2_LabRab3/Card/Card.h
  D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.h
- D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.h
- D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.h
- D:/Project_C++/Sem2_LabRab3/Reader/Reader.h
- D:/Project_C++/Sem2_LabRab3/User/User.h
+ D:/Project_C++/Sem2_LabRab5/Book/Book.h
+ D:/Project_C++/Sem2_LabRab5/Card/Card.h
  D:/Project_C++/Sem2_LabRab5/Menu/Menu.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/Iterator.h
+ D:/Project_C++/Sem2_LabRab5/MyVector/MyVector.h
  D:/Project_C++/Sem2_LabRab5/Reader/Reader.h
+ D:/Project_C++/Sem2_LabRab5/User/User.h
  D:/Project_C++/Sem2_LabRab5/main.cpp

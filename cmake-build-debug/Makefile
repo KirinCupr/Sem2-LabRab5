@@ -248,30 +248,6 @@ Reader/Reader.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sem2_LabRab5.dir\build.make CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.s
 .PHONY : Reader/Reader.cpp.s
 
-Storage/Storage.obj: Storage/Storage.cpp.obj
-.PHONY : Storage/Storage.obj
-
-# target to build an object file
-Storage/Storage.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sem2_LabRab5.dir\build.make CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.obj
-.PHONY : Storage/Storage.cpp.obj
-
-Storage/Storage.i: Storage/Storage.cpp.i
-.PHONY : Storage/Storage.i
-
-# target to preprocess a source file
-Storage/Storage.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sem2_LabRab5.dir\build.make CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.i
-.PHONY : Storage/Storage.cpp.i
-
-Storage/Storage.s: Storage/Storage.cpp.s
-.PHONY : Storage/Storage.s
-
-# target to generate assembly for a file
-Storage/Storage.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sem2_LabRab5.dir\build.make CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.s
-.PHONY : Storage/Storage.cpp.s
-
 User/User.obj: User/User.cpp.obj
 .PHONY : User/User.obj
 
@@ -368,9 +344,6 @@ help:
 	@echo ... Reader/Reader.obj
 	@echo ... Reader/Reader.i
 	@echo ... Reader/Reader.s
-	@echo ... Storage/Storage.obj
-	@echo ... Storage/Storage.i
-	@echo ... Storage/Storage.s
 	@echo ... User/User.obj
 	@echo ... User/User.i
 	@echo ... User/User.s

@@ -5,9 +5,11 @@ CMakeFiles/Sem2_LabRab5.dir/Book/Book.cpp.obj: \
  ../Book/Book.cpp \
  ../Book/Book.h
 CMakeFiles/Sem2_LabRab5.dir/Card/Card.cpp.obj: \
- D:/Project_C++/Sem2_LabRab3/Book/Book.h \
+ ../Book/Book.h \
  ../Card/Card.cpp \
- ../Card/Card.h
+ ../Card/Card.h \
+ ../MyVector/Iterator.h \
+ ../MyVector/MyVector.h
 CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj: \
  ../ItemMenu/ItemMenu.cpp \
  ../ItemMenu/ItemMenu.h
@@ -16,33 +18,27 @@ CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj: \
  ../Menu/Menu.cpp \
  ../Menu/Menu.h
 CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj: \
- D:/Project_C++/Sem2_LabRab3/Book/Book.h \
- D:/Project_C++/Sem2_LabRab3/Card/Card.h \
- D:/Project_C++/Sem2_LabRab3/User/User.h \
+ ../Book/Book.h \
+ ../Card/Card.h \
+ ../MyVector/Iterator.h \
+ ../MyVector/MyVector.h \
  ../Reader/Reader.cpp \
- ../Reader/Reader.h
-CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.obj: \
- D:/Project_C++/Sem2_LabRab3/Book/Book.h \
- D:/Project_C++/Sem2_LabRab3/Card/Card.h \
- D:/Project_C++/Sem2_LabRab3/Reader/Reader.h \
- D:/Project_C++/Sem2_LabRab3/User/User.h \
- ../Storage/Storage.cpp \
- ../Storage/Storage.h
+ ../Reader/Reader.h \
+ ../User/User.h
 CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj: \
  ../User/User.cpp \
  ../User/User.h
 CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj: \
- D:/Project_C++/Sem2_LabRab3/User/User.h \
+ ../User/User.h \
  ../Worker/Worker.cpp \
  ../Worker/Worker.h
 CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj: \
- D:/Project_C++/Sem2_LabRab3/Book/Book.h \
- D:/Project_C++/Sem2_LabRab3/Card/Card.h \
  D:/Project_C++/Sem2_LabRab3/ItemMenu/ItemMenu.h \
- D:/Project_C++/Sem2_LabRab3/MyVector/Iterator.h \
- D:/Project_C++/Sem2_LabRab3/MyVector/MyVector.h \
- D:/Project_C++/Sem2_LabRab3/Reader/Reader.h \
- D:/Project_C++/Sem2_LabRab3/User/User.h \
+ ../Book/Book.h \
+ ../Card/Card.h \
  ../Menu/Menu.h \
+ ../MyVector/Iterator.h \
+ ../MyVector/MyVector.h \
  ../Reader/Reader.h \
+ ../User/User.h \
  ../main.cpp

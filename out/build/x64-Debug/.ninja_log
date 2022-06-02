@@ -1,0 +1,20 @@
+# ninja log v5
+11	1628	6758926998087136	CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj	7df0c918ee3cd8c9
+15	1641	6758926998067137	CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj	fef9d746d3255db
+19	1644	6758926997977124	CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj	a00a924f432f384c
+6	1654	6758926998027145	CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj	4a369c642b9ea360
+23	1714	6758926998867208	CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj	2f2162e08829e169
+16	1616	6758927491970654	CMakeFiles/Sem2_LabRab5.dir/Book/Book.cpp.obj	a904435e10fea007
+12	1631	6758927492030672	CMakeFiles/Sem2_LabRab5.dir/Card/Card.cpp.obj	afc9b4d75b9b969c
+2	1838	6758927494400835	CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj	9827155db1089e3d
+1839	2760	6758927503541517	Sem2_LabRab5.exe	69247c1af8c1fe75
+0	13	0	clean	8c45b54705a541e8
+15	1433	6758927741390009	CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj	2f2162e08829e169
+11	1439	6758927741610042	CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj	7df0c918ee3cd8c9
+19	1445	6758927741650041	CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj	fef9d746d3255db
+24	1453	6758927741720032	CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj	a00a924f432f384c
+7	1455	6758927741740041	CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj	9827155db1089e3d
+2	1474	6758927742020070	CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj	4a369c642b9ea360
+1433	2344	6758927750760706	CMakeFiles/Sem2_LabRab5.dir/Book/Book.cpp.obj	a904435e10fea007
+1439	2352	6758927750900714	CMakeFiles/Sem2_LabRab5.dir/Card/Card.cpp.obj	afc9b4d75b9b969c
+2353	2575	6758927752852409	Sem2_LabRab5.exe	69247c1af8c1fe75

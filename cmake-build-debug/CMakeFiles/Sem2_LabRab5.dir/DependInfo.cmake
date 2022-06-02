@@ -13,7 +13,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Project_C++/Sem2_LabRab5/ItemMenu/ItemMenu.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/ItemMenu/ItemMenu.cpp.obj"
   "D:/Project_C++/Sem2_LabRab5/Menu/Menu.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/Menu/Menu.cpp.obj"
   "D:/Project_C++/Sem2_LabRab5/Reader/Reader.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/Reader/Reader.cpp.obj"
-  "D:/Project_C++/Sem2_LabRab5/Storage/Storage.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/Storage/Storage.cpp.obj"
   "D:/Project_C++/Sem2_LabRab5/User/User.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/User/User.cpp.obj"
   "D:/Project_C++/Sem2_LabRab5/Worker/Worker.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/Worker/Worker.cpp.obj"
   "D:/Project_C++/Sem2_LabRab5/main.cpp" "D:/Project_C++/Sem2_LabRab5/cmake-build-debug/CMakeFiles/Sem2_LabRab5.dir/main.cpp.obj"

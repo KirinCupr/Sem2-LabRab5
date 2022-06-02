@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Project_C++/Sem2_LabRab5/out/build/x64-Debug/CMakeFiles/Sem2_LabRab5.dir/embed.manifest"

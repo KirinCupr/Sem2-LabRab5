@@ -1,6 +1,7 @@
 #ifndef SEM2_LABRAB3_CARD_H
 #define SEM2_LABRAB3_CARD_H
-#include "D:\Project_C++\Sem2_LabRab3\Book\Book.h"
+#include "../Book/Book.h"
+#include "../MyVector/MyVector.h"
 #include <iostream>
 
 namespace ZKN
@@ -9,14 +10,14 @@ namespace ZKN
     {
     public:
         Card();
-        Card(int count, Book *books, int year, int period);
+        Card(int count, MyVector<Book>, int year, int period);
         void print();
         int getCount() const;
-        Book& operator[](const int index) const;
+        Book& operator[](const int index);
 
     private:
         int count{3};
-        Book *books{0};
+        MyVector<Book> books;
         int yearOfIssue{0};
         int period{0};
     };

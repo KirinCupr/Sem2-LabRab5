@@ -1,6 +1,6 @@
 #ifndef SEM2_LABRAB3_WORKER_H
 #define SEM2_LABRAB3_WORKER_H
-#include "D:\Project_C++\Sem2_LabRab3\User\User.h"
+#include "../User/User.h"
 #include <string>
 namespace ZKN
 {
